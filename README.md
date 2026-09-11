@@ -33,6 +33,7 @@ Building software across the stack — from full-stack products and real-time sy
 
 ## 🧭 What I Build
 
+<div align="center">
 <table>
 <tr>
 <td width="50%">
@@ -86,7 +87,7 @@ Building software across the stack — from full-stack products and real-time sy
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 # 🚀 Featured Work
